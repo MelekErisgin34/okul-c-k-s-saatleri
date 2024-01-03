@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\bin\Debug\Okul-Cıkış-Saatleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\bin\Debug\Okul-Cıkış-Saatleri.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\bin\Debug\Okul-Cıkış-Saatleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul-Cıkış-Saatleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul-Cıkış-Saatleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul_Cıkış_Saatleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul_Cıkış_Saatleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul-Cıkış-Saatleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul-Cıkış-Saatleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul-Cıkış-Saatleri.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Okul-Cıkış-Saatleri\Okul-Cıkış-Saatleri\obj\Debug\Okul-Cıkış-Saatleri.pdb
